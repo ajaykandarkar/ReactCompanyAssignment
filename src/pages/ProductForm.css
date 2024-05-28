@@ -1,0 +1,12 @@
+
+.formBaground{
+     background-image: linear-gradient(#0c0c0cb3, #0c0c0cad, #080808bd); 
+}
+
+.header{
+    text-align: center;
+    color: white;
+}
+.white-label {
+    color: white;
+}
